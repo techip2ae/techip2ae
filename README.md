@@ -1,4 +1,3 @@
 # Techima Yosuka
 
-
-![idk](./imeges/lol.gif)
+![I like gugugaga](./imeges/gugugaga-penguin1.gif)
